@@ -39,8 +39,8 @@
 <a href = "https://facebook.com/profile.php?id=100025695639043"><img src ="https://img.icons8.com/fluent/48/000000/facebook.png" width ="40px"/></a>
 <a href = "https://www.instagram.com/sm_idris_/"><img src ="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Instagram-512.png" width ="40px"/></a>
 <a href = "https://www.linkedin.com/in/sm-idris-6b8b6b245"><img src ="https://img.icons8.com/fluent/48/000000/linkedin.png" width ="40px"/></a>
-<a href = "https:https://twitter.com/SMIDRIS6"><img src ="https://img.icons8.com/fluent/48/000000/twitter.png" width ="40px"/></a>
-<a href="https://discord.gg/SM IDRIS#2834"><img src = "https://img.icons8.com/fluent/48/000000/discord.png" width ="40px"/>
+<a href = "https://twitter.com/SMIDRIS6"><img src ="https://img.icons8.com/fluent/48/000000/twitter.png" width ="40px"/></a>
+<a href = "https://discord.gg/SM IDRIS#2834"><img src = "https://img.icons8.com/fluent/48/000000/discord.png" width ="40px"/>
 
 
 
