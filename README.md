@@ -8,7 +8,7 @@ A passionate **Software Engineer** committed to building elegant solutions and c
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Meal Manager App](https://github.com/idris58/Meal-Management-System)** – A comprehensive meal management system for shared living and mess-style meal tracking
+- 🔭 I'm currently working on **[Meal Track App](https://github.com/idris58/MealTrack)** – A comprehensive meal management system for shared living and mess-style meal tracking
 - 🎯 My unique strength: **I don't specialize in just one area**—I have a versatile skill set combining technical and creative abilities. I've worked on diverse projects (finance apps, travel systems, games, AI-based plant disease classification) and can adapt quickly to different technologies
 - 💡 I'm passionate about **full-stack development, system design, database architecture, and UI/UX design**
 - 💬 Ask me about **TypeScript, React, Python, C#, C++, Java, database design, system architecture, or software engineering best practices**
@@ -57,9 +57,9 @@ A passionate **Software Engineer** committed to building elegant solutions and c
 
 ## 🌟 Featured Projects
 
-### [Meal Management System](https://github.com/idris58/Meal-Management-System)
+### [Meal Track](https://github.com/idris58/MealTrack)
 A comprehensive meal management application for shared living or mess-style meal tracking. Features include member deposits, meal logs, expense tracking, cycle management with pending settlement states, Supabase authentication with Google OAuth, and public read-only share links. Built with **React 19, TypeScript, Express, Supabase, and Tailwind CSS**.
-- 🔗 **Live Demo**: https://mealmanager.up.railway.app/
+- 🔗 **Live Demo**: https://mealtrack.up.railway.app/
 
 ### [Finance Tracker](https://github.com/idris58/Finance-Tracker)
 A full-featured finance tracking application for managing personal finances, budgets, and transactions. Built with modern tech stack to provide intuitive tracking and insights.
