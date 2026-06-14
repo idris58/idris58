@@ -63,7 +63,7 @@ A comprehensive meal management application for shared living or mess-style meal
 
 ### [Finance Tracker](https://github.com/idris58/Finance-Tracker)
 A full-featured finance tracking application for managing personal finances, budgets, and transactions. Built with modern tech stack to provide intuitive tracking and insights.
-- 🔗 **Live Demo**: https://https://financetracker-web.vercel.app/
+- 🔗 **Live Demo**: https://financetracker-web.vercel.app/
 - **Tech Stack**: TypeScript, React, Tailwind CSS, Dexie (IndexedDB), Radix UI (shadcn/ui components), PWA
 
 ### [TripMaker - Travel Agency Management System](https://github.com/idris58/TripMaker-Travel-Agency-Management-System)
